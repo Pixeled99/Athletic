@@ -1,3 +1,3 @@
-# Athletic.net Scrapper
+# Athletic.net Scraper
 
 Built very quickly while waiting for parts to arrive
